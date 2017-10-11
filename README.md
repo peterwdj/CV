@@ -1,5 +1,5 @@
 ## Peter Johnstone | *peterwdj*
-[Bio](#Bio) | Skills | Education | Experience | Other interests
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 #### Bio
 
@@ -50,4 +50,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Company Name** (start_date to end_date)   
 *Your job title*  
 
-## Other interests
+## Interests
