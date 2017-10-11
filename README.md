@@ -1,11 +1,13 @@
 ## Peter Johnstone | *peterwdj*
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-#### Bio
+## Bio
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 #### Communication
 
@@ -25,6 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 #### Makers Academy (October 2017 - January 2018)
 
@@ -44,6 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Other cool stuff
 
 ## Experience
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
@@ -51,3 +55,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 
 ## Interests
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
