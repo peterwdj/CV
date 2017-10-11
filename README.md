@@ -1,5 +1,5 @@
 ## Peter Johnstone | *peterwdj*
-Bio | Skills | Education | Experience | Other interests
+[Bio](#Bio) | Skills | Education | Experience | Other interests
 
 #### Bio
 
