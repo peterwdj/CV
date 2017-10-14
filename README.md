@@ -19,6 +19,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
+As a linguist throughout my academic career, the import of precise, clear, and concise education is not lost on me. A combination of essay-writing and Oxford's tutorial system (hour-long sessions of tuition between a tutor and up to four students) helped me develop both my oral and written communication.
+
+In my first job with The Up Group, part of my remit was to not only disseminate industry news to the team wider team, but also explain *why* a given story was important. In addition to this, I was also responsible for training new starters in the use of our database system. This entailed explaining not only how and to what en the database was used on a daily basis, but also the meaning of different tags for records on the database, such as industry or function; for experienced hires, these were often obvious, but to many of the graduate-level hires, it meant introducing them to brand new concepts.   
+
 - Experience
 - Achievements
 - Evidence
