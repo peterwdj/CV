@@ -50,13 +50,23 @@ I graduated from Oxford with a 2.i in EMEL (Spanish & Arabic) in June 2016 after
 
 During my degree, I covered a wide and diverse range of historical and literary content in addition to language work, ranging from pre-Islamic poetry to modern Spanish theatre. I also engaged with a wide range of extra-curricular activities, including working as a Section Editor for VERSA News, a student media outlet, captaining my college's 2nd XI football team, and taking leadership roles within the JCR, in the position of JCR Secretary.  
 
+
 ## Experience
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Up Group** (June 2016 to October 2017)    
+*Research Associate*
+**Somerville College & Rux-Burton Associates** (September 2015 to Ocotber 2015)   
+*Annual Fund Caller*
+**Salud y Communicación** (July 2015, Madrid)
+*Intern*
+**IkiOra** (July 2014 to August 2014, Madrid)
+*Intern*
+**Jesuit Refugee Services** (March 2014 to May 2014, Amman)
+*English Teacher*
+**Various Part-Time Work** (2008 to 2015)
+*Jobs include working on a farm, as a waiter, and delivering newspapers (two rounds, one self-set up)*
+
 
 ## Interests
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
