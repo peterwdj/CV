@@ -17,11 +17,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 As a linguist throughout my academic career, the import of precise, clear, and concise education is not lost on me. A combination of essay-writing and Oxford's tutorial system (hour-long sessions of tuition between a tutor and up to four students) helped me develop both my oral and written communication.
 
-In my first job with The Up Group, part of my remit was to not only disseminate industry news to the team wider team, but also explain *why* a given story was important. In addition to this, I was also responsible for training new starters in the use of our database system. This entailed explaining not only how and to what en the database was used on a daily basis, but also the meaning of different tags for records on the database, such as industry or function; for experienced hires, these were often obvious, but to many of the graduate-level hires, it meant introducing them to brand new concepts.   
+In my first job with The Up Group, part of my remit was to not only disseminate industry news to the team wider team, but also explain *why* a given story was important. In addition to this, I was also responsible for training new starters in the use of our database system. This entailed explaining not only how and to what end the database was used on a daily basis, but also the meaning of different tags for records on the database, such as industry or function; for experienced hires, these were often obvious, but to many of the graduate-level hires, it meant introducing them to brand new concepts.   
 
 - Experience
 - Achievements
@@ -39,16 +37,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
+
 #### Makers Academy (October 2017 - January 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+I began at Makers Academy, Europe's leading web developer bootcamp, after having taught myself to code in my spare time for the past year. The course is highly competitive, accepting only 10% of applicants, and places a heavy emphasis on practices such as pair programming, test-driven development, and object-oriented design. See Makers' [website](http://www.makersacademy.com/curriculum/) for more on their curriculum.
 
 #### Somerville College, University of Oxford (October 2012 - June 2016)
 
