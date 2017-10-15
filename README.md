@@ -70,3 +70,7 @@ During my degree, I covered a wide and diverse range of historical and literary 
 
 ## Interests
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+One of my primary interests is coding - but you've already heard all about that above. My motivation to learn to code came from another of my passions - startups. I am enthralled by the small band of believers who see opportunities to change the world for the better - and then go out and do it. It was a privilege for me to be able to cultivate that passion during my time at The Up Group.
+
+Outside of the worlds of technology and entrepreneurship, I have a keen interest in politics, which was nurtured by my parents from an early age. I also play football twice a week (training and competitively), and this has allowed me to grow my leadership abilities, confidence, and physical health. 
