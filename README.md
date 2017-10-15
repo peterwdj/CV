@@ -43,6 +43,14 @@ I graduated from Oxford with a 2.i in EMEL (Spanish & Arabic) in June 2016 after
 
 During my degree, I covered a wide and diverse range of historical and literary content in addition to language work, ranging from pre-Islamic poetry to modern Spanish theatre. I also engaged with a wide range of extra-curricular activities, including working as a Section Editor for VERSA News, a student media outlet, captaining my college's 2nd XI football team, and taking leadership roles within the JCR, in the position of JCR Secretary.  
 
+#### Hills Road Sixth-Form College
+##### A-Level Studies
+During my time at Hills Road, I took full A-Levels in four subjects, achieving an A* in History, As in Spanish and Government & Politics, and a B in German. I also took on an additional GCSE in Italian in my second year, achieving an A* grade.
+
+#### Swavesey Village College
+##### GCSEs
+I took my GCSEs at my local secondary school, Swavesey Village College, achieving nine A*s, three As, one B, and three Distinctions. I was also awarded the Chair of Governor's Award at the school's awards ceremony for the year group. 
+
 
 ## Experience
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
