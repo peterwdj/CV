@@ -1,10 +1,10 @@
 # Peter Johnstone | *peterwdj*
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
 
 I'm Peter, a soon-to-be full-stack developer. I'm a multilingual Oxford graduate, offering enthusiasm, work ethic, and a blend of soft and hard skills. I see a world teeming with opportunities, and am restless to pursue them. I want to work on radical ideas with other relentlessly ambitious people.
 
 ## Bio
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
 
 How did I come to study at Makers? After graduating from Oxford with a 2.i in Spanish and Arabic, I moved to London and began working for the digital executive search firm, [The Up Group](http://www.theupgroup.com/). Unsure what I wanted to do upon leaving university, I was attracted to Up by its roster of clients: Just Eat, Airbnb, Google, and Etsy to name a few. Tech companies were exciting to me, and my role at Up allowed me to cultivate this passion, as well as begin to learn to code in earnest in my spare time - something I had been meaning to do for years, which the pressures of academia had made impractical until that point.
 
@@ -13,7 +13,7 @@ During my near-18 months at Up, working with some of Europe's most creative, pio
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
 
 #### Communication
 
@@ -21,22 +21,15 @@ As a linguist throughout my academic career, the import of precise, clear, and c
 
 In my first job with The Up Group, part of my remit was to not only disseminate industry news to the team wider team, but also explain *why* a given story was important. In addition to this, I was also responsible for training new starters in the use of our database system. This entailed explaining not only how and to what end the database was used on a daily basis, but also the meaning of different tags for records on the database, such as industry or function; for experienced hires, these were often obvious, but to many of the graduate-level hires, it meant introducing them to brand new concepts.   
 
-- Experience
-- Achievements
-- Evidence
-
 #### Aptitude for learning
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my life, I have always had an insatiable curiosity that has driven my desire to learn. From being moved up a year group during Year 1 English classes within a few weeks of the start of the year, to teaching myself basic Hindi during the summer of 2015, I have always found great satisfaction in pushing myself to tackle new concepts.
 
-- I achieved A during dmy work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Throughout academia, this often meant new languages, and having studied French, German, Spanish, and Italian to varying levels pre-university, I was motivated to learn a non-European language precisely for the challenge it represented. Whilst working at The Up Group, this meant developing a deep understanding for the UK and Europe's digital ecosystem to assist with business development pitches and tricky searches. Over my 18 months at the company, I established myself as the go-to person to explain in-vogue concepts such as blockchain and deep learning.
+
 
 ## Education
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
-
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
 
 #### Makers Academy (October 2017 - January 2018)
 ##### Full stack development bootcamp
@@ -52,7 +45,7 @@ During my degree, I covered a wide and diverse range of historical and literary 
 
 
 ## Experience
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
 
 **The Up Group** (June 2016 to October 2017)    
 *Research Associate*
@@ -69,8 +62,15 @@ During my degree, I covered a wide and diverse range of historical and literary 
 
 
 ## Interests
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
 
 One of my primary interests is coding - but you've already heard all about that above. My motivation to learn to code came from another of my passions - startups. I am enthralled by the small band of believers who see opportunities to change the world for the better - and then go out and do it. It was a privilege for me to be able to cultivate that passion during my time at The Up Group.
 
-Outside of the worlds of technology and entrepreneurship, I have a keen interest in politics, which was nurtured by my parents from an early age. I also play football twice a week (training and competitively), and this has allowed me to grow my leadership abilities, confidence, and physical health. 
+Outside of the worlds of technology and entrepreneurship, I have a keen interest in politics, which was nurtured by my parents from an early age. I also play football twice a week (training and competitively), and this has allowed me to grow my leadership abilities, confidence, and physical health.
+
+## References
+[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
+
+Whilst working at The Up Group, the following are the people I worked most closely with:
+ - Agnes Greaves, Managing Director
+ - Alex Hazell, Marketing & Events Director
