@@ -39,14 +39,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 #### Makers Academy (October 2017 - January 2018)
+##### Full stack development bootcamp
 
 I began at Makers Academy, Europe's leading web developer bootcamp, after having taught myself to code in my spare time for the past year. The course is highly competitive, accepting only 10% of applicants, and places a heavy emphasis on practices such as pair programming, test-driven development, and object-oriented design. See Makers' [website](http://www.makersacademy.com/curriculum/) for more on their curriculum.
 
 #### Somerville College, University of Oxford (October 2012 - June 2016)
+##### BA European and Middle Eastern Languages (Spanish & Arabic)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+I graduated from Oxford with a 2.i in EMEL (Spanish & Arabic) in June 2016 after a four year course, including a year abroad in Amman, Jordan, where I attended an intensive course in Modern Standard and Classical Arabic. I also spent time in Spain during two summers across my degree, working at a delivery startup and a small healthcare consultancy.
+
+During my degree, I covered a wide and diverse range of historical and literary content in addition to language work, ranging from pre-Islamic poetry to modern Spanish theatre. I also engaged with a wide range of extra-curricular activities, including working as a Section Editor for VERSA News, a student media outlet, captaining my college's 2nd XI football team, and taking leadership roles within the JCR, in the position of JCR Secretary.  
 
 ## Experience
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
