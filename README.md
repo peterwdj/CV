@@ -31,7 +31,7 @@ Throughout academia, this often meant new languages, and having studied French, 
 
 Throughout my life, I have always placed a heavy emphasis on Getting Stuff Done, no matter how difficult or unpleasant the task at hand may have been. At university, I never once missed a task or essay deadline. Meanwhile at The Up Group, I often worked in an ad-hoc way, having to complete tasks as they came in, in addition to working on ongoing projects.
 
-In practice, this has always involved lots of management: of time, of stakeholders, and of myself. The end result of this was usually that I completed the task promptly and to a high standard. However, on occasions when either overall workloads or simple timeframes meant that It would not have been possible for me to complete a task to a sufficiently high standard, I have worked with either colleagues or tutors to ensure that tasks were completed, either at a later date for non-time-sensitive tasks, or to be assisted by someone who had the capacity to do so for urgent ones. A strong work ethic, ruthless prioritisation, and a preparedness to be flexible have been absolutely critical in my ability to Get Stuff Done. 
+In practice, this has always involved lots of management: of time, of stakeholders, and of myself. The end result of this was usually that I completed the task promptly and to a high standard. However, on occasions when either overall workloads or simple timeframes meant that It would not have been possible for me to complete a task to a sufficiently high standard, I have worked with either colleagues or tutors to ensure that tasks were completed, either at a later date for non-time-sensitive tasks, or to be assisted by someone who had the capacity to do so for urgent ones. A strong work ethic, ruthless prioritisation, and a preparedness to be flexible have been absolutely critical in my ability to Get Stuff Done.
 
 
 ## Education
@@ -63,14 +63,19 @@ I took my GCSEs at my local secondary school, Swavesey Village College, achievin
 
 **The Up Group** (June 2016 to October 2017)    
 *Research Associate*
+
 **Somerville College & Rux-Burton Associates** (September 2015 to Ocotber 2015)   
 *Annual Fund Caller*
+
 **Salud y Communicación** (July 2015, Madrid)
 *Intern*
+
 **IkiOra** (July 2014 to August 2014, Madrid)
 *Intern*
+
 **Jesuit Refugee Services** (March 2014 to May 2014, Amman)
 *English Teacher*
+
 **Various Part-Time Work** (2008 to 2015)
 *Jobs include working on a farm, as a waiter, and delivering newspapers (two rounds, one self-set up)*
 
