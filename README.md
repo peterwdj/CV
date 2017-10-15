@@ -27,6 +27,12 @@ Throughout my life, I have always had an insatiable curiosity that has driven my
 
 Throughout academia, this often meant new languages, and having studied French, German, Spanish, and Italian to varying levels pre-university, I was motivated to learn a non-European language precisely for the challenge it represented. Whilst working at The Up Group, this meant developing a deep understanding for the UK and Europe's digital ecosystem to assist with business development pitches and tricky searches. Over my 18 months at the company, I established myself as the go-to person to explain in-vogue concepts such as blockchain and deep learning.
 
+#### Getting Stuff Done *(capital G, S, D)*
+
+Throughout my life, I have always placed a heavy emphasis on Getting Stuff Done, no matter how difficult or unpleasant the task at hand may have been. At university, I never once missed a task or essay deadline. Meanwhile at The Up Group, I often worked in an ad-hoc way, having to complete tasks as they came in, in addition to working on ongoing projects.
+
+In practice, this has always involved lots of management: of time, of stakeholders, and of myself. The end result of this was usually that I completed the task promptly and to a high standard. However, on occasions when either overall workloads or simple timeframes meant that It would not have been possible for me to complete a task to a sufficiently high standard, I have worked with either colleagues or tutors to ensure that tasks were completed, either at a later date for non-time-sensitive tasks, or to be assisted by someone who had the capacity to do so for urgent ones. A strong work ethic, ruthless prioritisation, and a preparedness to be flexible have been absolutely critical in my ability to Get Stuff Done. 
+
 
 ## Education
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
@@ -49,7 +55,7 @@ During my time at Hills Road, I took full A-Levels in four subjects, achieving a
 
 #### Swavesey Village College
 ##### GCSEs
-I took my GCSEs at my local secondary school, Swavesey Village College, achieving nine A*s, three As, one B, and three Distinctions. I was also awarded the Chair of Governor's Award at the school's awards ceremony for the year group. 
+I took my GCSEs at my local secondary school, Swavesey Village College, achieving nine A*s, three As, one B, and three Distinctions. I was also awarded the Chair of Governor's Award at the school's awards ceremony for the year group.
 
 
 ## Experience
