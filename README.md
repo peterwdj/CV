@@ -10,7 +10,6 @@ How did I come to study at Makers? After graduating from Oxford with a 2.i in Sp
 
 During my near-18 months at Up, working with some of Europe's most creative, pioneering businesses gave me an itch to jump in and get involved, rather than watching on from (an admittedly incredible seat on) the sidelines. This dovetailed perfectly with my increasing abilities in and enjoyment of coding, which I had been practising on [Codecademy](https://www.codecademy.com/). Having researched around various options, including other coding bootcamps, for the best route into this career path with no technical experience and a professional services background, I eventually applied to Makers. From its language-agnostic approach to its community-driven ethos, Makers held a number of attractions.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 [Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
