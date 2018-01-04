@@ -50,11 +50,11 @@ During my degree, I covered a wide and diverse range of historical and literary 
 
 #### Hills Road Sixth-Form College
 ##### A-Level Studies
-During my time at Hills Road, I took full A-Levels in four subjects, achieving an A* in History, As in Spanish and Government & Politics, and a B in German. I also took on an additional GCSE in Italian in my second year, achieving an A* grade.
+During my time at Hills Road, I took full A-Levels in four subjects, achieving an A\* in History, As in Spanish and Government & Politics, and a B in German. I also took on an additional GCSE in Italian in my second year, achieving an A\* grade.
 
 #### Swavesey Village College
 ##### GCSEs
-I took my GCSEs at my local secondary school, Swavesey Village College, achieving nine A*s, three As, one B, and three Distinctions. I was also awarded the Chair of Governor's Award at the school's awards ceremony for the year group.
+I took my GCSEs at my local secondary school, Swavesey Village College, achieving nine A\*s, three As, one B, and three Distinctions. I was also awarded the Chair of Governor's Award at the school's awards ceremony for the year group.
 
 
 ## Experience
