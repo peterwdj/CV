@@ -44,26 +44,26 @@ In practice, this involved lots of management: of time, of stakeholders, and of 
 [Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 #### Makers Academy (October 2017 - January 2018)
-###### Full-stack software development bootcamp
+##### Full-stack software development bootcamp
 I began at Makers Academy, Europe's leading web developer bootcamp, after having taught myself to code in my spare time for the past year. The course is highly competitive, accepting only 10% of applicants, and places a heavy emphasis on practices such as pair programming, test-driven development, and object-oriented design. See Makers' [website](http://www.makersacademy.com/curriculum/) for more on their curriculum.
 
 The course at Makers is highly geared towards self-guided learning, and over the twelve weeks I worked on a number of projects either pair-programming or as part of a team. These were rarely 'completed', but did lead me to learn a huge amount. Some examples are *[Cooking Up A Storm](https://github.com/somemarsupials/cooking-challenge)*, a simple app that uses machine learning to recommend a type of cuisine for a user given a set of ingredients, *[NightmAirbnb](https://github.com/cazwazacz/MakersBnB)*, our first group project to remake Airbnb, and *[Oh-Note!](https://github.com/SuzanneHuldt/oh-note)*, a notes app written without the use of any external libraries, save a basic server.
 
 
 #### Somerville College, University of Oxford (October 2012 - June 2016)
-###### BA European and Middle Eastern Languages (Spanish & Arabic)
+##### BA European and Middle Eastern Languages (Spanish & Arabic)
 I graduated from Oxford with a 2.i in EMEL (Spanish & Arabic) in June 2016 after a four year course, including a year abroad in Amman, Jordan, where I attended an intensive course in Modern Standard and Classical Arabic. I also spent time in Spain during two summers across my degree, working at a delivery startup and a small healthcare consultancy.
 
 During my degree, I covered a wide and diverse range of historical and literary content in addition to language work, ranging from pre-Islamic poetry to modern Spanish theatre. I also engaged with a wide range of extra-curricular activities, including working as a Section Editor for student media outlet VERSA News, captaining my college's 2nd XI football team, and working as my college JCR's secretary.  
 
 
 #### Hills Road Sixth-Form College
-###### A-Level Studies
+##### A-Level Studies
 During my time at Hills Road, I took full A-Levels in four subjects, achieving an A\* in History, As in Spanish and Government & Politics, and a B in German. I also took on an additional GCSE in Italian in my second year, achieving an A\* grade.
 
 
 #### Swavesey Village College
-###### GCSEs
+##### GCSEs
 I took my GCSEs at my local secondary school, Swavesey Village College, achieving nine A\*s, three As, one B, and three Distinctions. I was also awarded the Chair of Governor's Award at the school's awards ceremony for the year group.
 
 
@@ -101,7 +101,7 @@ I have worked part-time jobs consistently since the age of 14, turning my hand t
 
 
 ## Interests
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 One of my primary interests is programming, and I am working on a couple of side projects, such as [teamGen](https://github.com/peterwdj/football-team-generator) with [ideas for more](https://github.com/peterwdj/projects). Whilst at Makers, I've unfortunately not had as much time to pursue these as I would like, and intend to start on more in earnest after graduating.
 
