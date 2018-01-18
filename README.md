@@ -1,10 +1,10 @@
-# Peter Johnstone | *peterwdj*
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+# Peter Johnstone - Curriculum Vitae
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
-I'm Peter, and I'm a junior developer studying at Makers Academy - graduating mid-January 2018. I'm a multilingual Oxford graduate bringing enthusiasm and work ethic, looking for a position at a startup that wants to change the world.
+I'm Peter, and I'm a full-stack developer, having graduated from [Makers Academy](http://www.makersacademy.com/) in January 2018. I'm a multilingual Oxford graduate bringing enthusiasm and work ethic, seeking a position at a truly mission-driven startup. I am currently working on a couple of side projects, such as [TeamGen](https://github.com/peterwdj/football-team-generator) with [ideas for more](https://github.com/peterwdj/projects).
 
 ## How I Got Here
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
 
 After graduating from Oxford with a 2.i in Spanish and Arabic, I moved to London and began working for the digital executive search firm, [The Up Group](http://www.theupgroup.com/). Unsure what I wanted to do upon leaving university, I was attracted to Up by its roster of clients, such as Just Eat, Airbnb, Google, and Etsy. Tech companies were exciting to me, and my role at Up allowed me to cultivate this passion, and spurred by this, I began to teach myself to code in my spare time.
 
@@ -12,7 +12,7 @@ During my time at Up, working with some of Europe's most creative, pioneering bu
 
 
 ## Skills
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
 
 #### Technical skills
 My technical skills come largely from the time I spent at Makers Academy ([see below](#education) for further details and sample projects). Whilst the course is taught primarily in Ruby and JavaScript, Makers' language-agnostic approach to teaching means I feel comfortable learning new languages and technologies on the fly - as I did with Python during our [practice final project](https://github.com/somemarsupials/cooking-challenge).
@@ -41,13 +41,13 @@ In practice, this involved lots of management: of time, of stakeholders, and of 
 
 
 ## Education
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
 
 #### Makers Academy (October 2017 - January 2018)
 ##### Full-stack software development bootcamp
 I began at Makers Academy, Europe's leading web developer bootcamp, after having taught myself to code in my spare time for the past year. The course is highly competitive, accepting only 10% of applicants, and places a heavy emphasis on practices such as pair programming, test-driven development, and object-oriented design. See Makers' [website](http://www.makersacademy.com/curriculum/) for more on their curriculum.
 
-The course at Makers is highly geared towards self-guided learning, and over the twelve weeks I worked on a number of projects either pair-programming or as part of a team. These were rarely 'completed', but did lead me to learn a huge amount. Some examples are *[Cooking Up A Storm](https://github.com/somemarsupials/cooking-challenge)*, a simple app that uses machine learning to recommend a type of cuisine for a user given a set of ingredients, *[NightmAirbnb](https://github.com/cazwazacz/MakersBnB)*, our first group project to remake Airbnb, and *[Oh-Note!](https://github.com/SuzanneHuldt/oh-note)*, a notes app written without the use of any external libraries, save a basic server.
+The course at Makers is highly geared towards self-guided learning, and over the twelve weeks I worked on a number of projects either pair-programming or as part of a team. See [Sample Projects](#sample-projects) for a flavour of these.
 
 
 #### Somerville College, University of Oxford (October 2012 - June 2016)
@@ -68,7 +68,7 @@ I took my GCSEs at my local secondary school, Swavesey Village College, achievin
 
 
 ## Experience
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
 
 **The Up Group** (June 2016 to October 2017)    
 *Research Associate*   
@@ -77,7 +77,7 @@ The Up Group is a boutique, digital executive search firm in London. I joined as
 
 **Somerville College & Rux-Burton Associates** (September 2015 to Ocotber 2015)   
 *Annual Fund Caller*   
-Somerville College conducts an annual telethon in partnership with Rux-Burton Associates to raise money for the Annual Fund. I spent two weeks contacting college alumni to update them on college affairs and request donations to the Annual Fund, used to finance things like bursaries or investment in facilities. The telethon was the college's most successful to date, as I and many of my peers exceeded our personal targets for the campaign, at the same time building my confidence and honing my skills in communication, negotiation, and relationship-building.
+Somerville College conducts an annual telethon in partnership with Rux-Burton Associates to raise money for the Annual Fund, which is used to finance things like bursaries or investment in facilities. I spent two weeks contacting college alumni to update them on college affairs and request donations to the Annual Fund. The telethon was the college's most successful to date, as I and many of my peers exceeded our targets, at the same time building my confidence and honing my skills in communication, negotiation, and relationship-building.
 
 
 **Salud y Communicación** (July 2015, Madrid)   
@@ -92,26 +92,38 @@ IkiOra was a Madrid-based same-hour delivery startup, similar to UK services Qui
 
 **Jesuit Refugee Services** (March 2014 to May 2014, Amman)   
 *English Teacher*   
-Jesuit Refugee Services is a global charity for refugees. I worked volunteered for them for three months during my year abroad in Jordan, teaching English to largely Iraqi refugees living in Amman. In this time, I developed my leadership and communication abilities.
+Jesuit Refugee Services is a global charity for refugees. I volunteered there for three months whilst in Jordan, teaching English to largely Iraqi refugees living in Amman. In this time, I developed my leadership and communication abilities.
 
 
 **Various Part-Time Work** (2008 to 2015)   
 *Waiting, newspaper delivery, farm work*
-I have worked part-time jobs consistently since the age of 14, turning my hand to farm work, delivering newspapers both mornings and evenings (the former self-managed), and various waiting and hospitality work, allowing me to develop a strong work ethic and willingness to get stuck in with any task.
+I have worked part-time jobs consistently since the age of 14, allowing me to develop a strong work ethic and willingness to get stuck in with any task.
+
+
+## Sample Projects
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+
+During my time at [Makers Academy](#education), I worked on various projects. These are all available on my GitHub, and a selection are included below.
+
+**Robot Wars**   
+*[Robot Wars](https://github.com/SuzanneHuldt/robot-wars)* was my final project at Makers. Working in a team of four, we built a bot to play a two-player [variation of Conway's Game of Life](https://starapple.riddles.io/competitions/game-of-life-and-death). This was built using exclusively **Ruby** and **RSpec**, a decision taken consciously to avoid the use of external libraries (beyond a testing framework) to allow us to develop as sophisticated a bot as possible from scratch.
+
+**Cooking Up A Storm**   
+*[Cooking Up A Storm](https://github.com/somemarsupials/cooking-challenge)* was our practice final project at Makers. Cooking Up A Storm is an application that uses machine learning to recommend the user a style of cuisine to cook, given a  list of ingredients. The app was built primarily in **Python** (with the help of libraries such as **scikit-learn**), with **Sinatra** providing the web framework and **HTML**, **CSS**, and **jQuery** used for some front-end features.
+
+**NightmAirbnb**   
+*[NightmAirbnb](https://github.com/cazwazacz/MakersBnB)* was a rebuild of Airbnb, and the first group project that we worked on at Makers (having previously paired on challenges). The application was built using the **Sinatra** web framework, with **Postgres** and **DataMapper** on the back-end, and **HTML**, **CSS**, and **jQuery** on the front-end.
+
+**Leonardo**   
+*[Leonardo](https://github.com/peterwdj/leonardo)* is an Instagram clone built using **Rails**. The application is built in Ruby, using **Postgres** and **DataMapper** on the back-end, as well as gems such as **Carrierwave** and **OAuth** to implement image upload and third-party sign-in respectively.
+
+**Oh-Note!**   
+*[Oh-Note!](https://github.com/SuzanneHuldt/oh-note)* is a simple notes application built using **JavaScript**. The app was written without the use of any external libraries, save a **http-server**, a lightweight server. This meant that we had to recreate tools such as **jQuery** and the **Jasmine** testing framework from scratch.
 
 
 ## Interests
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
-
-One of my primary interests is programming, and I am working on a couple of side projects, such as [teamGen](https://github.com/peterwdj/football-team-generator) with [ideas for more](https://github.com/peterwdj/projects). Whilst at Makers, I've unfortunately not had as much time to pursue these as I would like, and intend to start on more in earnest after graduating.
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
 
 My motivation to learn to code came from another of my passions - startups. I am enthralled by the believers who see opportunities to change the world for the better - and go out and do it. I have cultivated this passion through my work at Up, books such as Brad Stone's *[The Upstarts](https://www.amazon.co.uk/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316396818)* and Ben Horowitz' *[The Hard Thing About Hard Things](https://www.amazon.co.uk/Hard-Thing-About-Things-Building/dp/0062273205)*, and listening to podcasts such as Reid Hoffman's *[Masters of Scale](https://mastersofscale.com/)* (his [uncut interview with Brian Chesky](https://soundcloud.com/best-of-tech-startups/masters-of-scale-uncut-interview-airbnbs-brian-chesky) is my favourite episode). In recent months, I have discovered and become increasingly interested in Tristan Harris' [Time Well Spent](http://www.timewellspent.io/) movement and, more broadly, how technology can be used to augment, improve, and ultimately liberate our lives, rather than dominate and consume them - a task that will ultimately require more thoughtful, considered, and empathetic design.
 
 Outside of the worlds of technology and entrepreneurship, I have a keen interest in politics, nurtured by my parents from an early age. I also play football three times a week (training and competitively), and have recently taken up yoga and meditation, allowing me to develop an altogether healthier relationship with myself.
-
-<!-- ## References
-[Bio](#bio) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [References](#references)
-
-Whilst working at The Up Group, the following are the people I worked most closely with:
- - Agnes Greaves, Managing Director
- - Alex Hazell, Marketing & Events Director -->
