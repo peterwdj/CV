@@ -4,7 +4,7 @@
 I'm Peter, and I'm a full-stack developer, having graduated from [Makers Academy](http://www.makersacademy.com/) in January 2018. I'm a multilingual Oxford graduate bringing enthusiasm and work ethic, seeking a position at a truly mission-driven startup. I am currently working on a couple of side projects, such as [TeamGen](https://github.com/peterwdj/football-team-generator) with [ideas for more](https://github.com/peterwdj/projects).
 
 ## How I Got Here
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
 After graduating from Oxford with a 2.i in Spanish and Arabic, I moved to London and began working for the digital executive search firm, [The Up Group](http://www.theupgroup.com/). Unsure what I wanted to do upon leaving university, I was attracted to Up by its roster of clients, such as Just Eat, Airbnb, Google, and Etsy. Tech companies were exciting to me, and my role at Up allowed me to cultivate this passion, and spurred by this, I began to teach myself to code in my spare time.
 
@@ -12,7 +12,7 @@ During my time at Up, working with some of Europe's most creative, pioneering bu
 
 
 ## Skills
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
 #### Technical skills
 My technical skills come largely from the time I spent at Makers Academy ([see below](#education) for further details and sample projects). Whilst the course is taught primarily in Ruby and JavaScript, Makers' language-agnostic approach to teaching means I feel comfortable learning new languages and technologies on the fly - as I did with Python during our [practice final project](https://github.com/somemarsupials/cooking-challenge).
@@ -41,7 +41,7 @@ In practice, this involved lots of management: of time, of stakeholders, and of 
 
 
 ## Education
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
 #### Makers Academy (October 2017 - January 2018)
 ##### Full-stack software development bootcamp
@@ -68,7 +68,7 @@ I took my GCSEs at my local secondary school, Swavesey Village College, achievin
 
 
 ## Experience
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
 **The Up Group** (June 2016 to October 2017)    
 *Research Associate*   
@@ -101,7 +101,7 @@ I have worked part-time jobs consistently since the age of 14, allowing me to de
 
 
 ## Sample Projects
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
 During my time at [Makers Academy](#education), I worked on various projects. These are all available on my GitHub, and a selection are included below.
 
@@ -122,7 +122,7 @@ During my time at [Makers Academy](#education), I worked on various projects. Th
 
 
 ## Interests
-[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) [Interests](#interests)
+[Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
 My motivation to learn to code came from another of my passions - startups. I am enthralled by the believers who see opportunities to change the world for the better - and go out and do it. I have cultivated this passion through my work at Up, books such as Brad Stone's *[The Upstarts](https://www.amazon.co.uk/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316396818)* and Ben Horowitz' *[The Hard Thing About Hard Things](https://www.amazon.co.uk/Hard-Thing-About-Things-Building/dp/0062273205)*, and listening to podcasts such as Reid Hoffman's *[Masters of Scale](https://mastersofscale.com/)* (his [uncut interview with Brian Chesky](https://soundcloud.com/best-of-tech-startups/masters-of-scale-uncut-interview-airbnbs-brian-chesky) is my favourite episode). In recent months, I have discovered and become increasingly interested in Tristan Harris' [Time Well Spent](http://www.timewellspent.io/) movement and, more broadly, how technology can be used to augment, improve, and ultimately liberate our lives, rather than dominate and consume them - a task that will ultimately require more thoughtful, considered, and empathetic design.
 
