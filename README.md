@@ -1,7 +1,7 @@
 # Peter Johnstone - Curriculum Vitae
 [Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
-I'm Peter, and I'm a full-stack developer, having graduated from [Makers Academy](http://www.makersacademy.com/) in January 2018. I'm a multilingual Oxford graduate bringing enthusiasm and work ethic, seeking a position at a truly mission-driven startup. I am currently working on a couple of side projects, such as [TeamGen](https://github.com/peterwdj/football-team-generator) with [ideas for more](https://github.com/peterwdj/projects).
+I'm Peter, and I'm a full-stack developer, having graduated from [Makers Academy](http://www.makersacademy.com/) in January 2018. I'm a multilingual Oxford graduate bringing enthusiasm and work ethic, seeking a position at a truly mission-driven startup. I am currently working on a couple of side projects, such as [a redesign of The Dictionary Of Obscure Sorrows](https://github.com/peterwdj/tdoos-redesign) with [ideas for more](https://github.com/peterwdj/projects).
 
 ## How I Got Here
 [Bio](#how-i-got-here) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
